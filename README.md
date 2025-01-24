@@ -47,9 +47,6 @@ Example Response:
 Fetch the status of a transaction by its custom order ID.
 
 Example Request:
-bash
-Copy
-Edit
 GET /api/transactions/status/order_001
 Example Response:
 {
